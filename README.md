@@ -9,6 +9,6 @@ Check out the deployed app here: [Note Taker]
 
 ### Screenshots
 
-![screenshot](https://github.com/kara-krzystan/note-taker/blob/main/public/assets/images/Screenshot_01.jpg)
-![screenshot](https://github.com/kara-krzystan/note-taker/blob/main/public/assets/images/Screenshot_02.jpg)
+![screenshot](https://github.com/ivydo/Note-Taker/blob/main/public/assets/images/Screenshot_01.jpg)
+
 
