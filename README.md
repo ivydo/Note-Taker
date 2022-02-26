@@ -5,7 +5,7 @@
 Note Taker can be used to write and save notes.
 
 ### Website Link
-Check out the deployed app here: [Note Taker]
+Check out the deployed app here: [Note Taker](https://note-taker-ivy.herokuapp.com/)
 
 ### Screenshots
 
